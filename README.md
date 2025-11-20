@@ -4,7 +4,7 @@ This repository contains the practical prototype for the academic research paper
 
 This project's mission is to build a practical, effective, and—most importantly—**transparent** Intrusion Detection System (IDS). It directly addresses the "black box" problem prevalent in modern AI-driven security, as identified in my research.
 
-* **My Research Paper:** 
+* **My Research Paper:** https://www.techrxiv.org/users/995622/articles/1356555-ai-powered-cyber-defense-in-academic-networks
 * **My LinkedIn:** [www.linkedin.com/in/christian-ohwofasa-c-itp-mcpn-mncs-318927232](http://www.linkedin.com/in/christian-ohwofasa-c-itp-mcpn-mncs-318927232)
 * **My Technical Blog:** [https://medium.com/@christianohwofasa](https://medium.com/@christianohwofasa)
 
